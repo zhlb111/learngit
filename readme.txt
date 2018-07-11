@@ -4,3 +4,4 @@ Git has mutable index called stage
 abc
 git tracks changes of files
 qwe
+Creating a new branck is quick
